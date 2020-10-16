@@ -9,4 +9,16 @@ public class PersonService {
     private  String name;
     private String age;
     private String sex;
+
+    public String getName() {
+        return name;
+    }
+
+    public String getAge() {
+        return age;
+    }
+
+    public String getSex() {
+        return sex;
+    }
 }
