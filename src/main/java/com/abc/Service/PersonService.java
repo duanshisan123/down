@@ -8,4 +8,5 @@ package com.abc.Service;
 public class PersonService {
     private  String name;
     private String age;
+    private String sex;
 }
