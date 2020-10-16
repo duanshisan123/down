@@ -11,4 +11,15 @@ public class PersonService {
     private String sex;
     private String addre;
 
+    public String getName() {
+        return name;
+    }
+
+    public String getAge() {
+        return age;
+    }
+
+    public String getSex() {
+        return sex;
+    }
 }
